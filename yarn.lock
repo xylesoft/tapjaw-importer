@@ -4015,10 +4015,10 @@ typedoc-plugin-missing-exports@0.23.0:
   resolved "https://registry.yarnpkg.com/typedoc-plugin-missing-exports/-/typedoc-plugin-missing-exports-0.23.0.tgz#076df6ffce4d84e8097be009b7c62a17d58477a5"
   integrity sha512-9smahDSsFRno9ZwoEshQDuIYMHWGB1E6LUud5qMxR2wNZ0T4DlZz0QjoK3HzXtX34mUpTH0dYtt7NQUK4D6B6Q==
 
-typedoc-umlclass@0.6.1:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/typedoc-umlclass/-/typedoc-umlclass-0.6.1.tgz#8da852aecc4b90d90a782801e5d967e847e27662"
-  integrity sha512-e4KecqOfuZKhpgad60U51U7ytrZBj8eYd5FWLXEccP53NZdAJwIkYzTKel/wMEt2n3UIl2G3Kuo7r5wbmYe98g==
+typedoc-umlclass@0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/typedoc-umlclass/-/typedoc-umlclass-0.7.0.tgz#b8470344c7b1fba3b1d590359f79028911eeac17"
+  integrity sha512-eJ9Q1tHX5FLRjh3fYQp2FdqkcrTVVkpHC8nynFwPCi1QnKLOmJbudqv6+glywfFjdHotM3xlr9BIONiM1rsr7w==
   dependencies:
     plantuml-encoder "^1.4.0"
     plantuml-pipe "^1.4.0"

@@ -4050,10 +4050,10 @@ type-fest@^1.2.1:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.4.0.tgz#e9fb813fe3bf1744ec359d55d1affefa76f14be1"
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
 
-typedoc-plugin-mdn-links@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/typedoc-plugin-mdn-links/-/typedoc-plugin-mdn-links-2.0.0.tgz#b43893bc7bdbb94927091f66d465f31e8440ad6c"
-  integrity sha512-IGLuelXPOenGdmklr5DHgPPf/MfZj7aEYCxCMtPN8C1D0lA7w0YLahd0jhDDcOMU7zL1EPcM5pPnhZHltDhqGQ==
+typedoc-plugin-mdn-links@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/typedoc-plugin-mdn-links/-/typedoc-plugin-mdn-links-2.0.1.tgz#ab93ea8c1830ebfbc8dd4dde40d63840b1467d1b"
+  integrity sha512-NKhlev3wO/YnEOgo7WVG9KhxENaxk6n0zTrLG2zcXrkY1WryEe17n5Jjn+0IfEPAzCC0BxHzEBavWdHngBclVw==
 
 typedoc-plugin-missing-exports@1.0.0:
   version "1.0.0"

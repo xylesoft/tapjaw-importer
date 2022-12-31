@@ -10,7 +10,7 @@
         "@types/jsdom": "20.0.1",
         "@types/jsonpath": "0.2.0",
         "@types/jsonwebtoken": "9.0.0",
-        "@types/luxon": "3.1.0",
+        "@types/luxon": "3.2.0",
         "@types/node": "18.11.18",
         "@types/puppeteer": "5.4.7",
         "@types/split2": "3.2.1",

@@ -30,7 +30,7 @@
         "jest-mock-process": "2.0.0",
         "prettier": "2.8.2",
         "ts-jest": "28.0.8",
-        "typedoc": "0.23.23",
+        "typedoc": "0.23.24",
         "typedoc-plugin-mdn-links": "2.0.2",
         "typedoc-plugin-missing-exports": "1.0.0",
         "typedoc-umlclass": "0.7.0",

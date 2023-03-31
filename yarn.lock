@@ -4006,9 +4006,9 @@ ts-jest@28.0.4:
     yargs-parser "^20.x"
 
 ts-transformer-keys@^0.4:
-  version "0.4.3"
-  resolved "https://registry.yarnpkg.com/ts-transformer-keys/-/ts-transformer-keys-0.4.3.tgz#d62389a40f430c00ef98fb9575fb6778a196e3ed"
-  integrity sha512-pOTLlet1SnAvhKNr9tMAFwuv5283OkUNiq1fXTEK+vrSv+kxU3e2Ijr/UkqyX2vuMmvcNHdpXC31hob7ljH//g==
+  version "0.4.4"
+  resolved "https://registry.yarnpkg.com/ts-transformer-keys/-/ts-transformer-keys-0.4.4.tgz#c185508b3ae9b79236aac58f788c85ca3ac807d7"
+  integrity sha512-LrqgvaFvar01/5mbunRyeLTSIkqoC2xfcpL/90aDY6vR07DGyH+UaYGdIEsUudnlAw2Sr0pxFgdZvE0QIyI4qA==
 
 tsconfig-paths@^3.14.1:
   version "3.14.1"

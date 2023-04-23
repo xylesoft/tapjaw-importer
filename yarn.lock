@@ -3504,13 +3504,13 @@ plantuml-encoder@^1.4.0:
   resolved "https://registry.yarnpkg.com/plantuml-encoder/-/plantuml-encoder-1.4.0.tgz#7899302cf785de956bf1a167e15420feee5975f7"
   integrity sha512-sxMwpDw/ySY1WB2CE3+IdMuEcWibJ72DDOsXLkSmEaSzwEUaYBT6DWgOfBiHGCux4q433X6+OEFWjlVqp7gL6g==
 
-plantuml-pipe@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/plantuml-pipe/-/plantuml-pipe-1.4.0.tgz#7f90f1e76bc2aede351f8b96e1c8412b56dfaa1c"
-  integrity sha512-9FGqUG0TUwZCGFgKU7PyRxlfDqO99iFb7I40Vwk3Akt2SSdxI9Y1yicfZHeW8/3V6/4meVfCSQ/le7ldWdIX0Q==
+plantuml-pipe@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/plantuml-pipe/-/plantuml-pipe-1.5.0.tgz#b796968195a64f37b78e2051132b4bc795b65452"
+  integrity sha512-a4brAspbSlQYDdzLtDulB7ZQOGI5JC3Kyk7cTo8kDrM2gOQcarXkP/fN0mR+gD3srS9BMI06rOQKkvhrFpqYzg==
   dependencies:
     binary-split "^1.0.5"
-    split2 "^4.1.0"
+    split2 "^4.2.0"
 
 prelude-ls@^1.2.1:
   version "1.2.1"
@@ -3804,7 +3804,7 @@ source-map@^0.6.0, source-map@^0.6.1, source-map@~0.6.1:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-split2@^4.1.0:
+split2@^4.1.0, split2@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/split2/-/split2-4.2.0.tgz#c9c5920904d148bab0b9f67145f245a86aadbfa4"
   integrity sha512-UcjcJOWknrNkF6PLX83qcHM6KHgVKNkV62Y8a5uYDVv9ydGQVwAHMKqHdJje1VTWpljG0WYpCDhrCdAOYH4TWg==
@@ -4102,13 +4102,13 @@ typedoc-plugin-missing-exports@2.0.0:
   resolved "https://registry.yarnpkg.com/typedoc-plugin-missing-exports/-/typedoc-plugin-missing-exports-2.0.0.tgz#9bdc4e30b0c7f24e9f1cb8890db4d01f608717c5"
   integrity sha512-t0QlKCm27/8DaheJkLo/gInSNjzBXgSciGhoLpL6sLyXZibm7SuwJtHvg4qXI2IjJfFBgW9mJvvszpoxMyB0TA==
 
-typedoc-umlclass@0.6.1:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/typedoc-umlclass/-/typedoc-umlclass-0.6.1.tgz#8da852aecc4b90d90a782801e5d967e847e27662"
-  integrity sha512-e4KecqOfuZKhpgad60U51U7ytrZBj8eYd5FWLXEccP53NZdAJwIkYzTKel/wMEt2n3UIl2G3Kuo7r5wbmYe98g==
+typedoc-umlclass@0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/typedoc-umlclass/-/typedoc-umlclass-0.7.1.tgz#882812f365a311045849b3075adad1fa06b582b3"
+  integrity sha512-nHEPjbda1oIZ5lKNMainzi93UB1FyyMNoFWjNlipjK/Adx/RtepJdaGdIrZ8EgtuWGi7pW+xP8jaRmb40vj/9w==
   dependencies:
     plantuml-encoder "^1.4.0"
-    plantuml-pipe "^1.4.0"
+    plantuml-pipe "^1.5.0"
     progress "^2.0.3"
     queue-fifo "^0.2.6"
 

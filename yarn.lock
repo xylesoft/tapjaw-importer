@@ -842,10 +842,10 @@
   resolved "https://registry.yarnpkg.com/@types/tough-cookie/-/tough-cookie-4.0.2.tgz#6286b4c7228d58ab7866d19716f3696e03a09397"
   integrity sha512-Q5vtl1W5ue16D+nIaW8JWebSSraJVlK+EthKn7e7UcD4KWsaSJ8BqGPXNaPghgtcn/fhvrN17Tv8ksUsQpiplw==
 
-"@types/xml2js@0.4.11":
-  version "0.4.11"
-  resolved "https://registry.yarnpkg.com/@types/xml2js/-/xml2js-0.4.11.tgz#bf46a84ecc12c41159a7bd9cf51ae84129af0e79"
-  integrity sha512-JdigeAKmCyoJUiQljjr7tQG3if9NkqGUgwEUqBvV0N7LM4HyQk7UXCnusRa1lnvXAEYJ8mw8GtZWioagNztOwA==
+"@types/xml2js@0.4.12":
+  version "0.4.12"
+  resolved "https://registry.yarnpkg.com/@types/xml2js/-/xml2js-0.4.12.tgz#d9aae03295476fd5cbc74e0b572816208dbec6d1"
+  integrity sha512-CZPpQKBZ8db66EP5hCjwvYrLThgZvnyZrPXK2W+UI1oOaWezGt34iOaUCX4Jah2X8+rQqjvl9VKEIT8TR1I0rA==
   dependencies:
     "@types/node" "*"
 

@@ -774,10 +774,10 @@
   resolved "https://registry.yarnpkg.com/@types/json5/-/json5-0.0.29.tgz#ee28707ae94e11d2b827bcbe5270bcea7f3e71ee"
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
-"@types/jsonpath@0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@types/jsonpath/-/jsonpath-0.2.2.tgz#b8b98ad2f0d912d343ff27d91bc406ccf90028b2"
-  integrity sha512-uo4BNABD0IVcJQjOmOq/atfxHVTniFaQEHrrGSANpWyS96ecej/85YXLvLWNe+tLshUz9/IbMbzImbKNo71WxA==
+"@types/jsonpath@0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@types/jsonpath/-/jsonpath-0.2.3.tgz#e2279e54258593336fc4fca77875cb5819e53c3f"
+  integrity sha512-vNn3xVLWSDjyppcpyRs7ZjN5pBQxdplCC2fBr0dTvcaxFVVKWah0/Gul00j4kIW+HVjxhE2ALm3FiW4SIwJh3w==
 
 "@types/jsonwebtoken@8.5.8":
   version "8.5.8"

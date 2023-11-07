@@ -8,7 +8,7 @@
     "devDependencies": {
         "@types/jest": "29.5.7",
         "@types/jsdom": "21.1.5",
-        "@types/jsonpath": "0.2.2",
+        "@types/jsonpath": "0.2.3",
         "@types/jsonwebtoken": "8.5.8",
         "@types/luxon": "2.3.2",
         "@types/node": "20.8.10",

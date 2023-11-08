@@ -16,7 +16,7 @@
         "@types/split2": "4.2.3",
         "@types/through": "0.0.33",
         "@types/tough-cookie": "4.0.5",
-        "@types/xml2js": "0.4.13",
+        "@types/xml2js": "0.4.14",
         "@typescript-eslint/eslint-plugin": "5.62.0",
         "@typescript-eslint/parser": "5.62.0",
         "eslint": "8.53.0",

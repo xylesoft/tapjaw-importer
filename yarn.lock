@@ -4438,10 +4438,10 @@ typed-array-length@^1.0.4:
     for-each "^0.3.3"
     is-typed-array "^1.1.9"
 
-typedoc-plugin-mdn-links@3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/typedoc-plugin-mdn-links/-/typedoc-plugin-mdn-links-3.1.2.tgz#3efb83533621dc13b4d105749e9a53f3f76f7098"
-  integrity sha512-qObj+lJdoITpErNI0eFsyMYs9fYorHIGaXMCzhprwF5vydbxHqB55zhUCjr6YIR4BGBLzLp0pRasm+h/Mxuaow==
+typedoc-plugin-mdn-links@3.1.4:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/typedoc-plugin-mdn-links/-/typedoc-plugin-mdn-links-3.1.4.tgz#ba913d79b929276b150702c9bba07ff12a1acc7e"
+  integrity sha512-uChw0fOIQQOyte+SBVPyeORAvxVmABycG28hIFJCagLHPW6ZxuvvDPcGvD4Wb2dJ8TW9y9pneYqQR+UW2/DhhA==
 
 typedoc-plugin-missing-exports@2.1.0:
   version "2.1.0"

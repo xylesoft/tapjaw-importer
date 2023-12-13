@@ -50,7 +50,7 @@
         "jsonwebtoken": "^8.5.1",
         "luxon": "^2.0.2",
         "node-html-parser": "^5.0.0",
-        "reflect-metadata": "^0.1.13",
+        "reflect-metadata": "^0.2.0",
         "split2": "^4.1.0",
         "through": "^2.3.8",
         "tough-cookie": "^4",

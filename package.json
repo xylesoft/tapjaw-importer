@@ -31,7 +31,7 @@
         "prettier": "2.8.8",
         "ts-jest": "29.1.1",
         "typedoc": "0.25.4",
-        "typedoc-plugin-mdn-links": "3.1.9",
+        "typedoc-plugin-mdn-links": "3.1.10",
         "typedoc-plugin-missing-exports": "2.1.0",
         "typedoc-umlclass": "0.8.0",
         "typescript": "5.3.3"

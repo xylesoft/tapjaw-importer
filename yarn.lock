@@ -1536,6 +1536,11 @@ decimal.js@^10.4.3:
   resolved "https://registry.yarnpkg.com/decimal.js/-/decimal.js-10.4.3.tgz#1044092884d245d1b7f65725fa4ad4c6f781cc23"
   integrity sha512-VBBaLc1MgL5XpzgIP7ny5Z6Nx3UrRkIViUkPUdtl9aya5amy3De1gsUUSB1g3+3sExYNjCAsAznmukyxCb1GRA==
 
+decorator-cache-getter@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/decorator-cache-getter/-/decorator-cache-getter-1.0.0.tgz#ef2549229dfb8301f4f231a2457b7503567f48c4"
+  integrity sha512-yB49c5qi0govRjpe18vutEkkKzosIt2XggYSs1Qyev1TJYTh2WmLgDp0dV6VJ/6yNBRlKG+qMG80Vy4Bg0mLJw==
+
 dedent@^0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
@@ -4500,11 +4505,12 @@ typedoc-plugin-missing-exports@2.2.0:
   resolved "https://registry.yarnpkg.com/typedoc-plugin-missing-exports/-/typedoc-plugin-missing-exports-2.2.0.tgz#e39a04bab5b0d7f7b28507d64c07a4c40b788648"
   integrity sha512-2+XR1IcyQ5UwXZVJe9NE6HrLmNufT9i5OwoIuuj79VxuA3eYq+Y6itS9rnNV1D7UeQnUSH8kISYD73gHE5zw+w==
 
-typedoc-umlclass@0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/typedoc-umlclass/-/typedoc-umlclass-0.8.1.tgz#46978c353f9b16ca9f0d3ddd7d515d9acf40a05d"
-  integrity sha512-4l3NLNkL/TmP5M5OjLgdmmDPqzaY+x0CohVLK4wfX2IW/x7pcgzL6KL8wAvayp08OOJ1N9BQpVRid1idbeDF0w==
+typedoc-umlclass@0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/typedoc-umlclass/-/typedoc-umlclass-0.9.0.tgz#a4bd0dd51c06f049abd7d68a2308704b3823c72e"
+  integrity sha512-kW2xvjRjudAj/0M8StiWowh+//IZwAb9X9tAj9KwRM+gC+6ilJa64ok9ZkO1884XTKEAFY3ys/YaeQ3QKpDprA==
   dependencies:
+    decorator-cache-getter "^1.0.0"
     plantuml-encoder "^1.4.0"
     plantuml-pipe "^1.6.0"
     progress "^2.0.3"

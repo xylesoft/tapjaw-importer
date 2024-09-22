@@ -4975,10 +4975,10 @@ typed-array-length@^1.0.6:
     is-typed-array "^1.1.13"
     possible-typed-array-names "^1.0.0"
 
-typedoc-plugin-mdn-links@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/typedoc-plugin-mdn-links/-/typedoc-plugin-mdn-links-3.3.0.tgz#f6af8e48771d50bca7fd9c5681f4612e62eb7dce"
-  integrity sha512-4iPgkqJ3d9wZe6O0Z6hezSa2xD4UEmuQKiEuv5jF4BJDwqkarshz14w0qznQJu0VvdQ7VaAXgA3WnnXgajYMrQ==
+typedoc-plugin-mdn-links@3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/typedoc-plugin-mdn-links/-/typedoc-plugin-mdn-links-3.3.1.tgz#cf9962341477437c2235a640e006d1da48551024"
+  integrity sha512-hgCOm3vDYLbSsIiQbr5hb/ayiMnspjsOwgH4hNVoOLaAeEecuwlY4VY7yh68TY10P1GwbG3N4UnAqmbkvf89KA==
 
 typedoc-plugin-missing-exports@3.0.0:
   version "3.0.0"

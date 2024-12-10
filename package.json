@@ -33,7 +33,7 @@
         "typedoc": "0.25.13",
         "typedoc-plugin-mdn-links": "4.0.4",
         "typedoc-plugin-missing-exports": "3.1.0",
-        "typedoc-umlclass": "0.10.0",
+        "typedoc-umlclass": "0.10.1",
         "typescript": "5.7.2"
     },
     "dependencies": {

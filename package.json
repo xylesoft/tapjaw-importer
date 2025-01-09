@@ -34,7 +34,7 @@
         "typedoc-plugin-mdn-links": "4.0.7",
         "typedoc-plugin-missing-exports": "3.1.0",
         "typedoc-umlclass": "0.10.1",
-        "typescript": "5.7.2"
+        "typescript": "5.7.3"
     },
     "dependencies": {
         "axios": "^0.29.0",

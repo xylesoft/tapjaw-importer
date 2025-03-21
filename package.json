@@ -32,7 +32,7 @@
         "ts-jest": "29.2.6",
         "typedoc": "0.25.13",
         "typedoc-plugin-mdn-links": "5.0.1",
-        "typedoc-plugin-missing-exports": "3.1.0",
+        "typedoc-plugin-missing-exports": "4.0.0",
         "typedoc-umlclass": "0.10.1",
         "typescript": "5.8.2"
     },

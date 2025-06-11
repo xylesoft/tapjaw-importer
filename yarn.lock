@@ -5000,10 +5000,10 @@ typedoc-plugin-missing-exports@4.0.0:
   resolved "https://registry.yarnpkg.com/typedoc-plugin-missing-exports/-/typedoc-plugin-missing-exports-4.0.0.tgz#01916ce83173cb2e7b2942edfbe484f3bfbb0c8c"
   integrity sha512-Z4ei+853xppDEhcqzyeyRs4+R0kUuKQWnMK1EtSTEd5LFkgkdW5Bdn8vfo/rsCGbYVJxOWU99fxgM1mROw5Fug==
 
-typedoc-umlclass@0.10.1:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/typedoc-umlclass/-/typedoc-umlclass-0.10.1.tgz#d25b69f416a97e7e509e0c822e6f3ea3065a9a2f"
-  integrity sha512-VuHYaR2shQDb2yXCPBg0O7cO+slK/1fg0L4gt/5D8tIRTzY4avj1PpDUjYphbo7SETc/VtFEtSns1iHZj4MZBQ==
+typedoc-umlclass@0.10.2:
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/typedoc-umlclass/-/typedoc-umlclass-0.10.2.tgz#2d606e574d879eb7d08715f7950df83c015c8fa5"
+  integrity sha512-t6p7SpgiOL1N8dRAONBAF/oFBBSxkLiYXFvLeWSX5NBCSl/Ka8xMzUOD6wLoX45mYz0V05QoNVunuUwtddZkLQ==
   dependencies:
     decorator-cache-getter "^1.0.0"
     plantuml-encoder "^1.4.0"

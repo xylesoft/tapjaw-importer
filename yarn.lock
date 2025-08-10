@@ -5606,10 +5606,10 @@ typed-array-length@^1.0.7:
     possible-typed-array-names "^1.0.0"
     reflect.getprototypeof "^1.0.6"
 
-typedoc-plugin-mdn-links@5.0.7:
-  version "5.0.7"
-  resolved "https://registry.yarnpkg.com/typedoc-plugin-mdn-links/-/typedoc-plugin-mdn-links-5.0.7.tgz#cb889648575bdf6cbf2eeccf8d8ab40f36b6487c"
-  integrity sha512-F4hSmW4wGn562EuF8UQWmutQfWlvSoP+14QJ6UQcNViGrBCQ9NLqze5LuhYc0DLxuQnWIzUnCShpuy2Zo5LtfQ==
+typedoc-plugin-mdn-links@5.0.8:
+  version "5.0.8"
+  resolved "https://registry.yarnpkg.com/typedoc-plugin-mdn-links/-/typedoc-plugin-mdn-links-5.0.8.tgz#2952465668ac104490bf5327a892354206ffdf67"
+  integrity sha512-VxyBPLlA7WpQK5lWK1MGkMgTPdLJqgpUGhi+8bYt+1g+hGUjw+tu8p58/orkRo49sfIzb96D8w/KXby5gwLgAw==
 
 typedoc-plugin-missing-exports@4.0.0:
   version "4.0.0"

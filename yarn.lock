@@ -5339,17 +5339,17 @@ through@^2.3.8:
   resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==
 
-tldts-core@^6.1.79:
-  version "6.1.79"
-  resolved "https://registry.yarnpkg.com/tldts-core/-/tldts-core-6.1.79.tgz#2d98689a161fbafe38a6640a54f5d4c88bd941a1"
-  integrity sha512-HM+Ud/2oQuHt4I43Nvjc213Zji/z25NSH5OkJskJwHXNtYh9DTRlHMDFhms9dFMP7qyve/yVaXFIxmcJ7TdOjw==
+tldts-core@^7.0.11:
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/tldts-core/-/tldts-core-7.0.11.tgz#d464529ecd7d89c5805cc171d15a01b2ac807d75"
+  integrity sha512-65eeOpBwWBabh0XqT+zB0vEllq/V3XcrF2fhgMXWWFfNw1yxEjeYg9Vv/B/UNozd0CTR/TohO1ubfn6O6mBW3w==
 
-tldts@^6.1.32:
-  version "6.1.79"
-  resolved "https://registry.yarnpkg.com/tldts/-/tldts-6.1.79.tgz#1804eddc48f8ae22a0e20937c9d92634ace7580b"
-  integrity sha512-wjlYwK8lC/WcywLWf3A7qbK07SexezXjTRVwuPWXHvcjD7MnpPS2RXY5rLO3g12a8CNc7Y7jQRQsV7XyuBZjig==
+tldts@^7.0.5:
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/tldts/-/tldts-7.0.11.tgz#821f823c61e957df8a30d8333957ad9168ec710b"
+  integrity sha512-7k7JV/LZpGhFUu2t+YDaMZ1wdPPRNpaCYNQ0NQbSLY3Rbgy+XbCdkXyqRiS9TLXiYAsrv0yiA0OvnxmgRFCdNA==
   dependencies:
-    tldts-core "^6.1.79"
+    tldts-core "^7.0.11"
 
 tmpl@1.0.5:
   version "1.0.5"
@@ -5378,12 +5378,12 @@ tough-cookie@^4.1.2:
     universalify "^0.2.0"
     url-parse "^1.5.3"
 
-tough-cookie@^5.0.0:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-5.1.2.tgz#66d774b4a1d9e12dc75089725af3ac75ec31bed7"
-  integrity sha512-FVDYdxtnj0G6Qm/DhNPSb8Ju59ULcup3tuJxkFb5K8Bv2pUXILbf0xZWU8PX8Ov19OXljbUyveOFwRMwkXzO+A==
+tough-cookie@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-6.0.0.tgz#11e418b7864a2c0d874702bc8ce0f011261940e5"
+  integrity sha512-kXuRi1mtaKMrsLUxz3sQYvVl37B0Ns6MzfrtV5DvJceE9bPyspOqk9xxv7XbZWcfLWbFmm997vl83qUWVJA64w==
   dependencies:
-    tldts "^6.1.32"
+    tldts "^7.0.5"
 
 tr46@^4.1.1:
   version "4.1.1"

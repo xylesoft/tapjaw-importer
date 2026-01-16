@@ -11,7 +11,7 @@
         "@types/jsonpath": "0.2.4",
         "@types/jsonwebtoken": "8.5.8",
         "@types/luxon": "2.3.2",
-        "@types/node": "24.10.8",
+        "@types/node": "24.10.9",
         "@types/puppeteer": "5.4.6",
         "@types/split2": "4.2.3",
         "@types/through": "0.0.33",

@@ -12,7 +12,7 @@
         "@types/jsonwebtoken": "8.5.8",
         "@types/luxon": "2.3.2",
         "@types/node": "24.11.0",
-        "@types/puppeteer": "5.4.6",
+        "@types/puppeteer": "5.4.7",
         "@types/split2": "4.2.3",
         "@types/through": "0.0.33",
         "@types/tough-cookie": "4.0.5",
